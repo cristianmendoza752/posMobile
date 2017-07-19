@@ -1,1 +1,0 @@
-Prueba de sincronización 1.0
